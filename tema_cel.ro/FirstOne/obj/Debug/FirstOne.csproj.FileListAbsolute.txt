@@ -1,0 +1,12 @@
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\FirstOne.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\FirstOne.pdb
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\obj\Debug\FirstOne.csprojResolveAssemblyReference.cache
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\obj\Debug\FirstOne.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\obj\Debug\FirstOne.pdb
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\nunit.framework.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\WebDriver.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\WebDriver.Support.dll
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\nunit.framework.xml
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\WebDriver.xml
+c:\users\bghiuta\documents\visual studio 2015\Projects\FirstOne\FirstOne\bin\Debug\WebDriver.Support.xml
